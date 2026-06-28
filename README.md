@@ -1,5 +1,5 @@
 ## Hello,
-I am interesting in many things including: Pc optimzation, Cybersecurity, Programming, Investing, Entrepreurship, and Reverse engineering
+I am interesting in many things including: Pc optimzation, Cybersecurity, Programming, Investing, Entrepreurship, and Reverse engineering. Working on building out projects
 
 
 
