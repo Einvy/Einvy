@@ -6,6 +6,7 @@ Currently learning:
 - AI Engineering
 - Cybersecurity
 - Reverse Engineering
+- Devops
 
 Languages:
 • C++
@@ -27,10 +28,9 @@ Languages:
 • MongoDB
 
 ## Currently
-- Building SaaS products
+- Focused on learning AWS tools
 - Creating tools I find interest in
 - Exploring AI development
-- Open to collaborating on interesting projects
 <!--
 **Einvy/Einvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
