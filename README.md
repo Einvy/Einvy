@@ -1,9 +1,8 @@
-## Entrepreneur | Full-Stack Developer | AI | Cybersecurity | Open Source
+## Entrepreneur | Full-Stack Developer | Cloud | Cybersecurity
 I'm a software developer focused on building practical software and different tools
 
 Currently learning:
-- Full-Stack Development
-- AI Engineering
+- Cloud
 - Cybersecurity
 - Reverse Engineering
 - Devops
@@ -13,26 +12,9 @@ Languages:
 • Python
 • C
 • JavaScript
-
- Frontend
-• React
-• Next.js
-• HTML
-• CSS
-• Tailwind CSS
-
- Backend
-• Node.js
-• Express
-• PostgreSQL
-• MongoDB
+Front end and back end
 
 ## Currently
 - Focused on learning AWS tools
-- Creating tools I find interest in
+- Creating tools I find use in
 - Exploring AI development
-<!--
-**Einvy/Einvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
